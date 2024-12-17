@@ -140,3 +140,5 @@ ToolTipText=open cctv5
 ```
 
 4. 将该脚本嵌入到 Rainmeter 中，测试该效果如下：
+
+![demo视频](https://github.com/liuxzzz/open-cctv5/blob/main/demo.mp4)
